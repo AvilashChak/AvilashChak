@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvilashChak
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning NodeJS, ExpressJs and MongoDB
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning NodeJS, ExpressJs and MongoDB and ReactJs
 - 💞️ I’m looking to collaborate on Front-end and Back-end project.
 - 📫 How to reach me - mail@- avilashchak@gmail.com & callme@- 9101137758
 
