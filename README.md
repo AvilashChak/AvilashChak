@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvilashChak
 - 👀 I’m a emerging Full Stack Developer.
-- 🌱 I’m currently working in ReactJS, JS, HTML, CSS, JAVA, MySql, Bootstrap, Tailwind, jQuery, NodeJS, ExpressJs and MongoDB
+- 🌱 I’m currently working in ReactJS, JS, HTML, CSS, JAVA, MySql, Bootstrap, Tailwind, Redux, jQuery, NodeJS, ExpressJs and MongoDB
 - 💞️ I’m looking to collaborate on Front-end and Back-end project.
 - 📫 How to reach me - mail@- avilashchak@gmail.com & callme@- 8721047125/9101137758
 
